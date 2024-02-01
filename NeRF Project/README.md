@@ -14,6 +14,5 @@ Converting a dataset of 35 images of a Latte on a coffee table into a 3D meshgri
 ![latteimg](latte-to-mesh.png)
 
 Latte Density Meshgrid Gif:
+
 ![lattegif](/NeRF%20Project/LatteMesh.gif)
-
-
